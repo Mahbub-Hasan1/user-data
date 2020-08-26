@@ -1,0 +1,9 @@
+.header{
+    position:fixed;
+    background: #8080FF;
+    width: 100%;
+    top: 0;
+    box-shadow: 5px 5px 10px lightgrey;
+    color: #ffffff;
+    text-align: center;
+}

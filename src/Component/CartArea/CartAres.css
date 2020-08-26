@@ -1,0 +1,23 @@
+
+/* userId-------------- */
+.cart{
+    width: 100%;
+    display: flex;
+    border-bottom: 10px dotted #fff;
+    color: #fff;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 5px 10px rgb(61, 145, 148);
+    background-color:#80dae6;
+    
+}
+.img-Cart{
+    width: 20%;
+    display: flex;
+}
+img{
+    width:100%;
+}
+
+.cartId{
+    margin-left: 4%;
+}

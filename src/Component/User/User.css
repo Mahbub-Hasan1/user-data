@@ -1,0 +1,17 @@
+.userInfo{
+    display:flex;
+    margin-top:105px;
+}
+.user{
+    width: 50%;
+    height: auto;
+}
+.cartNew{
+    height: 30%;
+    width:48%;
+    background: #80DAE6;
+    margin-left: 20px;
+    right: 3px;
+    /* margin-bottom: 10%; */
+    
+}
